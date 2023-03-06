@@ -1,4 +1,4 @@
-### Olá! 👋  Estou estudando com foco no Javascript, apesar de já ter visto PHP, Java, e Python.
+### Olá! 👋  Comecei a estudar programação no final de 2021. Atualmente, estou estudando com foco no Javascript, apesar de já ter visto PHP, Java, e Python. Também já estudei HTML%, CSS3, NodeJS, mySql e MongoDb.
 
 <!--
 **alexandreSouza31/alexandreSouza31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
