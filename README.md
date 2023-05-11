@@ -1,7 +1,7 @@
 
 ### Olá! Sou o Alexandre MAriano 👋
  
-- 🌱 Desenvolvedor Front-End | Técnico em desenvolvimento de aplicações web e mobile
+- 🌱 Desenvolvedor Front-End de aplicações web e mobile
 
 <h4 style="margin-bottom: 10px">"Constância constrói caráter - Pedro Marins"</h4>
 
@@ -11,7 +11,7 @@
 <br>
  <!--<div>
   <a href="https://github.com/alexandreSouza31/">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?)username=mfcastilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?)username=alexandre_mariano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mfcastilho&layout=compact&langs_count=112&theme=dracula"/>
    
   
