@@ -19,7 +19,7 @@
  
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,bootstrap,css,html,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,bootstrap,css,html,git&theme=light)](https://skillicons.dev)
   ##
  
 <div> 
