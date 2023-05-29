@@ -1,7 +1,7 @@
 
-### Olá! Sou o Alexandre MAriano 👋
+### Hi! I'm Alexandre Mariano 👋
  
-- 🌱 Desenvolvedor Front-End de aplicações web e mobile
+-  Web and Mobile FrontEnd Developer
 
 <h4 style="margin-bottom: 10px">"Constância constrói caráter - Pedro Marins"</h4>
 
