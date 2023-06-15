@@ -1,7 +1,7 @@
 
 ### Hi! I'm Alexandre Mariano 👋
  
--  Web and Mobile FrontEnd Developer
+-  Web FrontEnd Developer
 
 <h4 style="margin-bottom: 10px">"Constância constrói caráter - Pedro Marins"</h4>
 
