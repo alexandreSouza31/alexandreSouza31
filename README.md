@@ -1,9 +1,9 @@
 
 ### Hi! I'm Alexandre Mariano 👋
  
--  Web FrontEnd Developer
+-  Web Developer
 
-<h4 style="margin-bottom: 10px">"Constância constrói caráter - Pedro Marins"</h4>
+<h4 style="margin-bottom: 10px">"Fullstack Developer"</h4>
 
 
 
