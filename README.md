@@ -4,7 +4,7 @@
 Desde novo sou apaixonado e curioso em saber como a tecnologia funciona, tanto que ainda pequeno lembro de ter quebrado um relógio novo para ver como funciona por dentro hahaha! Contudo, só em 2021 percebi que a área de desenvolvimento é o que quero seguir.
 Acredito que a tecnologia pode tranformar a vida das pessoas e quero fazer parte disso!
 
- Possuo experiência com desenvolvimento Front-End (React, JavaScript Vanilla, consumo de API, Axios, Styled-components, bootstrap, HTML5, e CSS3.), e Back-End, onde estou realizando um curso pela Cubos Academy (JavaScript, NodeJS, Firebase,SQL, PostgreSQL, TypeScript, API Rest).
+ Possuo experiência com desenvolvimento Front-End (React, JavaScript Vanilla, consumo de API, Axios, Styled-components, bootstrap, HTML5, e CSS3.), e Back-End, onde realizei um curso pela Cubos Academy (JavaScript, NodeJS, Firebase,SQL, PostgreSQL, TypeScript, API Rest).
 Meu objetivo é atuar como Front-end, Back-end, ou FullStack.
 
 
