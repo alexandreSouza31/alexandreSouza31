@@ -23,7 +23,7 @@ Meu objetivo é atuar como Front-end, Back-end, ou FullStack.
 
 <h4 style="margin-bottom: 10px">Tecnologias</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,vite,nodejs,express,firebase,postgres,styledcomponents,bootstrap,css,html,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,react,vite,nodejs,express,firebase,postgres,styledcomponents,bootstrap,css,html,git&theme=light)](https://skillicons.dev)
 <!--[![My Skills](https://skillicons.dev/icons?i=js,react,vite,nodejs,express,ts,firebase,postgres,styledcomponents,bootstrap,css,html,git&theme=light)](https://skillicons.dev)-->
 
  <hr>
